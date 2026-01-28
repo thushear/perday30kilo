@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>随笔 on PerDay30Kilo 技术博客</title>
-    <link>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</link>
+    <link>/tags/%E9%9A%8F%E7%AC%94/</link>
     <description>Recent content in 随笔 on PerDay30Kilo 技术博客</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 28 Jan 2026 17:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World - 开启技术博客之旅</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Wed, 28 Jan 2026 17:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>记录技术博客的开始，分享未来的规划与期待</description>
     </item>
   </channel>

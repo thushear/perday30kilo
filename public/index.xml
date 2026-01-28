@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PerDay30Kilo 技术博客</title>
-    <link>http://localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on PerDay30Kilo 技术博客</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 28 Jan 2026 17:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World - 开启技术博客之旅</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Wed, 28 Jan 2026 17:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>记录技术博客的开始，分享未来的规划与期待</description>
     </item>
     <item>
       <title>关于我</title>
-      <link>http://localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 28 Jan 2026 17:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;h2 id=&#34;-个人简介&#34;&gt;👨‍💻 个人简介&lt;/h2&gt;
 &lt;p&gt;我是 &lt;strong&gt;Kong Ming&lt;/strong&gt;，一名拥有15年经验的互联网老兵。&lt;/p&gt;
 &lt;h2 id=&#34;-技术栈&#34;&gt;🚀 技术栈&lt;/h2&gt;

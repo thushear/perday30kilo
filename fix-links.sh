@@ -4,10 +4,13 @@
 
 echo "开始替换 HTML 文件中的 localhost 链接..."
 
-# 查找所有 HTML 文件并替换 http://localhost/ 为 /
+# 替换 http://localhost:1313/ （带端口）
+find public -name "*.html" -type f -exec sed -i '' 's|http://localhost:1313/|/|g' {} \;
+# 替换 http://localhost/ （不带端口）
 find public -name "*.html" -type f -exec sed -i '' 's|http://localhost/|/|g' {} \;
 
-# 查找所有 XML 文件并替换
+# 替换所有 XML 文件
+find public -name "*.xml" -type f -exec sed -i '' 's|http://localhost:1313/|/|g' {} \;
 find public -name "*.xml" -type f -exec sed -i '' 's|http://localhost/|/|g' {} \;
 
 echo "✅ 链接替换完成！"
