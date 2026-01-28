@@ -61,15 +61,16 @@ Hugo 的 PaperMod 主题在 `baseURL` 为 `/` 时会出现构建错误，因此�
 ## ✅ 链接格式对比
 
 ### 替换前
+
 ```html
 <a href="http://localhost/posts/">文章</a>
-<link rel="canonical" href="http://localhost/">
+<link rel="canonical" href="http://localhost/" />
 ```
 
 ### 替换后
+
 ```html
-<a href="/posts/">文章</a>
-<link rel="canonical" href="/">
+<a href="/posts/">文章</a> <link rel="canonical" href="/" />
 ```
 
 ## 📝 配置文件说明
@@ -110,6 +111,7 @@ find public -name "*.xml" -type f -exec sed -i '' 's|http://localhost/|/|g' {} \
 ```
 
 **功能**：
+
 - 替换所有 HTML 文件中的 localhost 链接
 - 替换所有 XML 文件（sitemap、RSS）中的 localhost 链接
 - 转换为相对路径，支持任意域名访问
@@ -148,6 +150,7 @@ alias hugo-build='hugo --minify && ./fix-links.sh'
 ```
 
 之后只需运行：
+
 ```bash
 hugo-build
 ```
