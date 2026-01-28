@@ -1,5 +1,5 @@
 # Hugo
-public/
+# public/  # 已提交 public/ 目录用于直接部署
 resources/_gen/
 .hugo_build.lock
 
