@@ -74,7 +74,7 @@ hugo new posts/article-name.md
 ---
 title: "文章标题"
 date: 2026-01-28T17:30:00+08:00
-draft: false  # 设置为 false 才会发布
+draft: false # 设置为 false 才会发布
 tags: ["标签1", "标签2"]
 categories: ["分类"]
 description: "文章描述"
@@ -152,6 +152,7 @@ title = '你的博客标题'
 ### Q1: Actions 构建失败
 
 **解决方案**：
+
 1. 检查 `.github/workflows/hugo.yml` 文件是否正确
 2. 确保主题子模块已正确添加
 3. 查看 Actions 日志获取具体错误信息
@@ -159,6 +160,7 @@ title = '你的博客标题'
 ### Q2: 页面显示 404
 
 **解决方案**：
+
 1. 确认 GitHub Pages 已正确配置为 GitHub Actions
 2. 检查 `hugo.toml` 中的 `baseURL` 是否正确
 3. 等待几分钟，DNS 生效需要时间
@@ -166,6 +168,7 @@ title = '你的博客标题'
 ### Q3: 主题样式不显示
 
 **解决方案**：
+
 1. 确保主题子模块已正确拉取：
    ```bash
    git submodule update --init --recursive
@@ -175,6 +178,7 @@ title = '你的博客标题'
 ### Q4: 文章不显示
 
 **解决方案**：
+
 1. 确认文章的 `draft: false`
 2. 检查文章是否在 `content/posts/` 目录下
 3. 本地运行 `hugo server -D` 测试

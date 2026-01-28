@@ -48,6 +48,7 @@
 ### 2. 配置构建源
 
 在 **Build and deployment** 部分：
+
 - **Source**: 选择 `GitHub Actions`
 - 点击保存
 
@@ -126,7 +127,7 @@ perday30kilo/
 [params]
   author = "你的名字"
   description = "博客描述"
-  
+
 [params.homeInfoParams]
   Title = "自定义标题"
   Content = "自定义首页内容"
@@ -227,7 +228,7 @@ description: "文章摘要（SEO 优化）"
 
 \`\`\`python
 def hello_world():
-    print("Hello, Hugo!")
+print("Hello, Hugo!")
 \`\`\`
 
 ### 数学公式
@@ -251,6 +252,7 @@ def hello_world():
 ## 📈 SEO 优化
 
 博客已配置：
+
 - ✅ 自动生成 sitemap.xml
 - ✅ 自动生成 RSS feed
 - ✅ 语义化 HTML
