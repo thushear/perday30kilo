@@ -2,8 +2,11 @@
 title: "Hello World - 开启技术博客之旅"
 date: 2026-01-28T17:30:00+08:00
 draft: false
-tags: ["博客", "随笔"]
-categories: ["杂谈"]
+tags:
+  - 博客
+  - 随笔
+categories:
+  - 杂谈
 description: "记录技术博客的开始，分享未来的规划与期待"
 ---
 

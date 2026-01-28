@@ -1,4 +1,4 @@
-baseURL = 'https://perday30kilo.github.io/'
+baseURL = 'http://localhost/'
 languageCode = 'zh-cn'
 title = 'PerDay30Kilo 技术博客'
 theme = 'PaperMod'
@@ -93,4 +93,4 @@ enableGitInfo = false
 
 # 输出格式
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
