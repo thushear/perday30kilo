@@ -15,14 +15,14 @@ server {
     server_name your-domain.com;
     root /var/www/perday30kilo/public;
     index index.html;
-    
+
     location / {
         try_files $uri $uri/ =404;
     }
-    
+
     gzip on;
     gzip_types text/plain text/css text/xml text/javascript application/javascript application/json;
-    
+
     location ~* \.(jpg|jpeg|png|gif|ico|css|js|svg|woff|woff2)$ {
         expires 30d;
         add_header Cache-Control "public, immutable";

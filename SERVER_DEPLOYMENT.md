@@ -37,34 +37,34 @@ sudo nano /etc/nginx/sites-available/perday30kilo
 server {
     listen 80;
     server_name your-domain.com;  # 改为你的域名
-    
+
     # 网站根目录指向 public 文件夹
     root /var/www/perday30kilo/public;
     index index.html;
-    
+
     # 日志
     access_log /var/log/nginx/perday30kilo_access.log;
     error_log /var/log/nginx/perday30kilo_error.log;
-    
+
     # 主要配置
     location / {
         try_files $uri $uri/ =404;
     }
-    
+
     # Gzip 压缩
     gzip on;
     gzip_vary on;
     gzip_min_length 1024;
-    gzip_types text/plain text/css text/xml text/javascript 
-               application/x-javascript application/xml+rss 
+    gzip_types text/plain text/css text/xml text/javascript
+               application/x-javascript application/xml+rss
                application/json application/javascript;
-    
+
     # 缓存静态资源
     location ~* \.(jpg|jpeg|png|gif|ico|css|js|svg|woff|woff2|ttf|eot)$ {
         expires 30d;
         add_header Cache-Control "public, immutable";
     }
-    
+
     # 404 页面
     error_page 404 /404.html;
 }
@@ -125,13 +125,13 @@ sudo nano /etc/apache2/sites-available/perday30kilo.conf
 <VirtualHost *:80>
     ServerName your-domain.com
     DocumentRoot /var/www/html/perday30kilo/public
-    
+
     <Directory /var/www/html/perday30kilo/public>
         Options Indexes FollowSymLinks
         AllowOverride All
         Require all granted
     </Directory>
-    
+
     ErrorLog ${APACHE_LOG_DIR}/perday30kilo_error.log
     CustomLog ${APACHE_LOG_DIR}/perday30kilo_access.log combined
 </VirtualHost>
@@ -226,6 +226,7 @@ echo "Blog updated at $(date)" >> /var/log/blog-deploy.log
 ```
 
 配置 GitHub Webhook：
+
 1. 仓库 Settings → Webhooks → Add webhook
 2. Payload URL: `http://your-server.com/webhook`
 3. 配置 webhook 接收服务（如 webhook、adnanh/webhook）
@@ -302,6 +303,7 @@ listen 443 ssl http2;
 **原因**：文件权限问题
 
 **解决**：
+
 ```bash
 cd /var/www/perday30kilo
 sudo chown -R www-data:www-data public/
@@ -313,6 +315,7 @@ sudo chmod -R 755 public/
 **原因**：baseURL 配置不正确
 
 **解决**：
+
 1. 检查 `hugo.toml` 中的 `baseURL`
 2. 重新构建：`hugo --minify`
 3. 推送到 GitHub
@@ -322,6 +325,7 @@ sudo chmod -R 755 public/
 **原因**：Nginx/Apache 配置错误
 
 **解决**：
+
 - 检查 `root` 路径是否指向 `public/` 目录
 - 检查 `index.html` 是否存在
 
@@ -330,6 +334,7 @@ sudo chmod -R 755 public/
 **原因**：浏览器缓存
 
 **解决**：
+
 - 强制刷新（Ctrl + F5）
 - 或清除浏览器缓存
 
@@ -378,18 +383,22 @@ sudo tail -f /var/log/apache2/perday30kilo_error.log
 ## 🌟 优势总结
 
 ### ✅ 无需 Hugo 环境
+
 - 服务器上不需要安装 Go 或 Hugo
 - 减少依赖，降低维护成本
 
 ### ✅ 部署简单
+
 - 只需配置 Web 服务器
 - 标准静态网站部署流程
 
 ### ✅ 性能优秀
+
 - 纯静态 HTML，响应速度快
 - 服务器负载低
 
 ### ✅ 易于维护
+
 - Git pull 即可更新
 - 可配置自动化部署
 
