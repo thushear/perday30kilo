@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = '/'  # 使用相对路径，适配任何域名或IP
 languageCode = 'zh-cn'
 title = 'PerDay30Kilo 技术博客'
 theme = 'PaperMod'
