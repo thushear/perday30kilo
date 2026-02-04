@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>美食 on PerDay30Kilo 技术博客</title>
+    <link>http://localhost/tags/%E7%BE%8E%E9%A3%9F/</link>
+    <description>Recent content in 美食 on PerDay30Kilo 技术博客</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 04 Feb 2026 18:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost/tags/%E7%BE%8E%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>汕头2天自驾游行程规划</title>
+      <link>http://localhost/posts/shantou-travel-guide/</link>
+      <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
+      <guid>http://localhost/posts/shantou-travel-guide/</guid>
+      <description>详细的汕头2天自驾游攻略，包含景点推荐、美食指南、住宿建议和2月穿衣指南</description>
+    </item>
+  </channel>
+</rss>

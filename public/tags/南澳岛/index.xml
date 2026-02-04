@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>南澳岛 on PerDay30Kilo 技术博客</title>
+    <link>http://localhost/tags/%E5%8D%97%E6%BE%B3%E5%B2%9B/</link>
+    <description>Recent content in 南澳岛 on PerDay30Kilo 技术博客</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 04 Feb 2026 18:10:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost/tags/%E5%8D%97%E6%BE%B3%E5%B2%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>南澳岛2天自驾游行程规划</title>
+      <link>http://localhost/posts/nanaodao-travel-guide/</link>
+      <pubDate>Wed, 04 Feb 2026 18:10:00 +0800</pubDate>
+      <guid>http://localhost/posts/nanaodao-travel-guide/</guid>
+      <description>南澳岛2天环岛自驾攻略，包含东西线景点、海鲜美食、海岛风光和实用出行建议</description>
+    </item>
+  </channel>
+</rss>

@@ -2,33 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>http://localhost/posts/travel-guides-summary/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/categories/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E5%B9%BF%E4%B8%9C/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/categories/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E6%B1%87%E6%80%BB/</loc>
+    <lastmod>2026-02-04T19:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E6%BE%B3%E9%97%A8/</loc>
+    <lastmod>2026-02-04T18:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E7%8F%A0%E6%B5%B7/</loc>
+    <lastmod>2026-02-04T18:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/zhuhai-macau-travel-guide/</loc>
+    <lastmod>2026-02-04T18:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/</loc>
+    <lastmod>2026-02-04T18:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E8%B7%A8%E5%A2%83%E6%B8%B8/</loc>
+    <lastmod>2026-02-04T18:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E5%8F%A4%E5%9F%8E%E6%B8%B8/</loc>
+    <lastmod>2026-02-04T18:20:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E6%BD%AE%E5%B7%9E/</loc>
+    <lastmod>2026-02-04T18:20:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/chaozhou-travel-guide/</loc>
+    <lastmod>2026-02-04T18:20:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E6%BD%AE%E6%B1%95%E6%96%87%E5%8C%96/</loc>
+    <lastmod>2026-02-04T18:20:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E5%8D%97%E6%BE%B3%E5%B2%9B/</loc>
+    <lastmod>2026-02-04T18:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/nanaodao-travel-guide/</loc>
+    <lastmod>2026-02-04T18:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E6%B1%95%E5%A4%B4/</loc>
+    <lastmod>2026-02-04T18:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E6%B5%B7%E5%B2%9B%E6%B8%B8/</loc>
+    <lastmod>2026-02-04T18:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/shantou-travel-guide/</loc>
+    <lastmod>2026-02-04T18:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/%E7%BE%8E%E9%A3%9F/</loc>
+    <lastmod>2026-02-04T18:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/hello-world/</loc>
     <lastmod>2026-01-28T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>/posts/hello-world/</loc>
+    <loc>http://localhost/about/</loc>
     <lastmod>2026-01-28T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2026-01-28T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>http://localhost/categories/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2026-01-28T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-01-28T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-    <lastmod>2026-01-28T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2026-01-28T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>/categories/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2026-01-28T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2026-01-28T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>/archives/</loc>
+    <loc>http://localhost/archives/</loc>
   </url>
 </urlset>
