@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on PerDay30Kilo 技术博客</title>
-    <link>http://localhost/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on PerDay30Kilo 技术博客</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 04 Feb 2026 19:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>广东</title>
-      <link>http://localhost/tags/%E5%B9%BF%E4%B8%9C/</link>
+      <link>/tags/%E5%B9%BF%E4%B8%9C/</link>
       <pubDate>Wed, 04 Feb 2026 19:00:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E5%B9%BF%E4%B8%9C/</guid>
+      <guid>/tags/%E5%B9%BF%E4%B8%9C/</guid>
       <description></description>
     </item>
     <item>
       <title>旅游攻略</title>
-      <link>http://localhost/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</link>
+      <link>/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</link>
       <pubDate>Wed, 04 Feb 2026 19:00:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</guid>
+      <guid>/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</guid>
       <description></description>
     </item>
     <item>
       <title>汇总</title>
-      <link>http://localhost/tags/%E6%B1%87%E6%80%BB/</link>
+      <link>/tags/%E6%B1%87%E6%80%BB/</link>
       <pubDate>Wed, 04 Feb 2026 19:00:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E6%B1%87%E6%80%BB/</guid>
+      <guid>/tags/%E6%B1%87%E6%80%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>澳门</title>
-      <link>http://localhost/tags/%E6%BE%B3%E9%97%A8/</link>
+      <link>/tags/%E6%BE%B3%E9%97%A8/</link>
       <pubDate>Wed, 04 Feb 2026 18:30:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E6%BE%B3%E9%97%A8/</guid>
+      <guid>/tags/%E6%BE%B3%E9%97%A8/</guid>
       <description></description>
     </item>
     <item>
       <title>珠海</title>
-      <link>http://localhost/tags/%E7%8F%A0%E6%B5%B7/</link>
+      <link>/tags/%E7%8F%A0%E6%B5%B7/</link>
       <pubDate>Wed, 04 Feb 2026 18:30:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E7%8F%A0%E6%B5%B7/</guid>
+      <guid>/tags/%E7%8F%A0%E6%B5%B7/</guid>
       <description></description>
     </item>
     <item>
       <title>自驾游</title>
-      <link>http://localhost/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/</link>
+      <link>/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/</link>
       <pubDate>Wed, 04 Feb 2026 18:30:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/</guid>
+      <guid>/tags/%E8%87%AA%E9%A9%BE%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>跨境游</title>
-      <link>http://localhost/tags/%E8%B7%A8%E5%A2%83%E6%B8%B8/</link>
+      <link>/tags/%E8%B7%A8%E5%A2%83%E6%B8%B8/</link>
       <pubDate>Wed, 04 Feb 2026 18:30:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E8%B7%A8%E5%A2%83%E6%B8%B8/</guid>
+      <guid>/tags/%E8%B7%A8%E5%A2%83%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>古城游</title>
-      <link>http://localhost/tags/%E5%8F%A4%E5%9F%8E%E6%B8%B8/</link>
+      <link>/tags/%E5%8F%A4%E5%9F%8E%E6%B8%B8/</link>
       <pubDate>Wed, 04 Feb 2026 18:20:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E5%8F%A4%E5%9F%8E%E6%B8%B8/</guid>
+      <guid>/tags/%E5%8F%A4%E5%9F%8E%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>潮州</title>
-      <link>http://localhost/tags/%E6%BD%AE%E5%B7%9E/</link>
+      <link>/tags/%E6%BD%AE%E5%B7%9E/</link>
       <pubDate>Wed, 04 Feb 2026 18:20:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E6%BD%AE%E5%B7%9E/</guid>
+      <guid>/tags/%E6%BD%AE%E5%B7%9E/</guid>
       <description></description>
     </item>
     <item>
       <title>潮汕文化</title>
-      <link>http://localhost/tags/%E6%BD%AE%E6%B1%95%E6%96%87%E5%8C%96/</link>
+      <link>/tags/%E6%BD%AE%E6%B1%95%E6%96%87%E5%8C%96/</link>
       <pubDate>Wed, 04 Feb 2026 18:20:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E6%BD%AE%E6%B1%95%E6%96%87%E5%8C%96/</guid>
+      <guid>/tags/%E6%BD%AE%E6%B1%95%E6%96%87%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
       <title>南澳岛</title>
-      <link>http://localhost/tags/%E5%8D%97%E6%BE%B3%E5%B2%9B/</link>
+      <link>/tags/%E5%8D%97%E6%BE%B3%E5%B2%9B/</link>
       <pubDate>Wed, 04 Feb 2026 18:10:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E5%8D%97%E6%BE%B3%E5%B2%9B/</guid>
+      <guid>/tags/%E5%8D%97%E6%BE%B3%E5%B2%9B/</guid>
       <description></description>
     </item>
     <item>
       <title>汕头</title>
-      <link>http://localhost/tags/%E6%B1%95%E5%A4%B4/</link>
+      <link>/tags/%E6%B1%95%E5%A4%B4/</link>
       <pubDate>Wed, 04 Feb 2026 18:10:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E6%B1%95%E5%A4%B4/</guid>
+      <guid>/tags/%E6%B1%95%E5%A4%B4/</guid>
       <description></description>
     </item>
     <item>
       <title>海岛游</title>
-      <link>http://localhost/tags/%E6%B5%B7%E5%B2%9B%E6%B8%B8/</link>
+      <link>/tags/%E6%B5%B7%E5%B2%9B%E6%B8%B8/</link>
       <pubDate>Wed, 04 Feb 2026 18:10:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E6%B5%B7%E5%B2%9B%E6%B8%B8/</guid>
+      <guid>/tags/%E6%B5%B7%E5%B2%9B%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>美食</title>
-      <link>http://localhost/tags/%E7%BE%8E%E9%A3%9F/</link>
+      <link>/tags/%E7%BE%8E%E9%A3%9F/</link>
       <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E7%BE%8E%E9%A3%9F/</guid>
+      <guid>/tags/%E7%BE%8E%E9%A3%9F/</guid>
       <description></description>
     </item>
     <item>
       <title>博客</title>
-      <link>http://localhost/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <link>/tags/%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 28 Jan 2026 17:30:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>/tags/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>随笔</title>
-      <link>http://localhost/tags/%E9%9A%8F%E7%AC%94/</link>
+      <link>/tags/%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Wed, 28 Jan 2026 17:30:00 +0800</pubDate>
-      <guid>http://localhost/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <guid>/tags/%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
   </channel>

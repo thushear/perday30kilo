@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>旅游攻略 on PerDay30Kilo 技术博客</title>
-    <link>http://localhost/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</link>
+    <link>/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</link>
     <description>Recent content in 旅游攻略 on PerDay30Kilo 技术博客</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 04 Feb 2026 19:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>广东旅游攻略合集</title>
-      <link>http://localhost/posts/travel-guides-summary/</link>
+      <link>/posts/travel-guides-summary/</link>
       <pubDate>Wed, 04 Feb 2026 19:00:00 +0800</pubDate>
-      <guid>http://localhost/posts/travel-guides-summary/</guid>
+      <guid>/posts/travel-guides-summary/</guid>
       <description>广东潮汕地区和珠澳地区完整旅游攻略合集，包含汕头、南澳岛、潮州、珠海和澳门的详细行程规划</description>
     </item>
     <item>
       <title>珠海&#43;澳门3天自驾游行程规划</title>
-      <link>http://localhost/posts/zhuhai-macau-travel-guide/</link>
+      <link>/posts/zhuhai-macau-travel-guide/</link>
       <pubDate>Wed, 04 Feb 2026 18:30:00 +0800</pubDate>
-      <guid>http://localhost/posts/zhuhai-macau-travel-guide/</guid>
+      <guid>/posts/zhuhai-macau-travel-guide/</guid>
       <description>珠海&#43;澳门3天跨境游攻略，含过关指南、澳门世遗景点、葡国美食和购物天堂全攻略</description>
     </item>
     <item>
       <title>潮州2天自驾游行程规划</title>
-      <link>http://localhost/posts/chaozhou-travel-guide/</link>
+      <link>/posts/chaozhou-travel-guide/</link>
       <pubDate>Wed, 04 Feb 2026 18:20:00 +0800</pubDate>
-      <guid>http://localhost/posts/chaozhou-travel-guide/</guid>
+      <guid>/posts/chaozhou-travel-guide/</guid>
       <description>潮州古城2天深度游攻略，广济桥、牌坊街、开元寺，体验工夫茶文化和潮州美食</description>
     </item>
     <item>
       <title>南澳岛2天自驾游行程规划</title>
-      <link>http://localhost/posts/nanaodao-travel-guide/</link>
+      <link>/posts/nanaodao-travel-guide/</link>
       <pubDate>Wed, 04 Feb 2026 18:10:00 +0800</pubDate>
-      <guid>http://localhost/posts/nanaodao-travel-guide/</guid>
+      <guid>/posts/nanaodao-travel-guide/</guid>
       <description>南澳岛2天环岛自驾攻略，包含东西线景点、海鲜美食、海岛风光和实用出行建议</description>
     </item>
     <item>
       <title>汕头2天自驾游行程规划</title>
-      <link>http://localhost/posts/shantou-travel-guide/</link>
+      <link>/posts/shantou-travel-guide/</link>
       <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
-      <guid>http://localhost/posts/shantou-travel-guide/</guid>
+      <guid>/posts/shantou-travel-guide/</guid>
       <description>详细的汕头2天自驾游攻略，包含景点推荐、美食指南、住宿建议和2月穿衣指南</description>
     </item>
   </channel>
